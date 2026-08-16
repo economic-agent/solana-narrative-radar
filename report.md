@@ -1,28 +1,28 @@
-# Solana Narrative Radar — 2026-08-16 20:13 UTC
+# Solana Narrative Radar — 2026-08-16 22:23 UTC
 
 Detected narratives for the current window, ranked by composite signal
 (TVL momentum + token moves + new dev activity + community mentions).
 
-## 1. Defi — score 1.32
+## 1. Defi — score 1.57
 
-- TVL Jupiter Perpetual Exchange 7d -5.7% ($678.3M)
-- TVL Exponent Yield Exchange 7d +7.7% ($123.1M)
-- TVL Loopscale 7d +10.7% ($91.2M)
-- TVL DFDV Staked SOL 7d +13.7% ($74.5M)
+- TVL Jupiter Perpetual Exchange 7d -5.7% ($677.7M)
+- TVL Exponent Yield Exchange 7d +7.8% ($123.1M)
+- TVL Loopscale 7d +10.6% ($91.2M)
+- TVL DFDV Staked SOL 7d +13.8% ($74.4M)
 
-## 2. Ai Agents — score 0.85
+## 2. Ai Agents — score 0.84
 
-- TVL Upshift 7d +27.1% ($347.1M)
-- token CHIP 24h +12.8% (vol $63M)
+- TVL Upshift 7d +27.3% ($347.4M)
+- token CHIP 24h +9.8% (vol $59M)
 - new repo ascenx/safe_wallet ★120 (created 2026-08-05)
 - new repo neogeeks/tx402 ★5 (created 2026-08-04)
 
-## 3. Restaking Lst — score 0.71
+## 3. Restaking Lst — score 0.72
 
-- TVL DFDV Staked SOL 7d +13.7% ($74.5M)
-- TVL Bitget SOL 7d +50.2% ($17.0M)
-- TVL Solayer Restaking 7d -7.1% ($9.0M)
-- TVL Save SOL 7d +10.9% ($4.6M)
+- TVL DFDV Staked SOL 7d +13.8% ($74.4M)
+- TVL Bitget SOL 7d +50.1% ($17.0M)
+- TVL Solayer Restaking 7d -7.0% ($9.0M)
+- TVL Save SOL 7d +11.0% ($4.6M)
 
 ## 4. Payments — score 0.23
 

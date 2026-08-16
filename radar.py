@@ -249,7 +249,7 @@ BUILD_IDEAS = {
 }
 
 
-def build_report(scores, evidence, ts):
+def build_report(scores, evidence, ts, momentum=None):
     ranked = sorted(scores.items(), key=lambda kv: -kv[1])
     ranked = [(b, s) for b, s in ranked if s > 0.02][:5]
     lines = []
@@ -263,7 +263,10 @@ def build_report(scores, evidence, ts):
         return "\n".join(lines)
     for i, (b, s) in enumerate(ranked, 1):
         label = b.replace("_", " ").title()
-        lines.append(f"## {i}. {label} — score {s:.2f}")
+        mom = ""
+        if momentum and b in momentum and momentum[b][1] >= 3:
+            mom = f" — momentum {momentum[b][0]:+.2f} vs {momentum[b][1]}-run mean"
+        lines.append(f"## {i}. {label} — score {s:.2f}{mom}")
         lines.append("")
         ev = evidence.get(b, [])[:4]
         for e in ev:
@@ -303,6 +306,32 @@ def html_dashboard(ranked, ts):
 </section>"""
 
 
+def load_history(path):
+    rows = []
+    if os.path.exists(path):
+        for line in open(path):
+            try:
+                rows.append(json.loads(line))
+            except Exception:
+                continue
+    return rows
+
+
+def momentum(scores, history, lookback_runs=20, min_runs=3):
+    """Per-bucket momentum: current score vs mean of up to `lookback_runs`
+    previous runs (only runs < 7 days old). Returns {bucket: (delta, n)}."""
+    now = time.time()
+    old = [h for h in history if now - h.get("ts", 0) < 7 * 86400][-lookback_runs:]
+    if len(old) < min_runs:
+        return {}
+    out = {}
+    for b in NARRATIVES:
+        prev = [h["scores"].get(b, 0.0) for h in old if b in h.get("scores", {})]
+        if len(prev) >= min_runs:
+            out[b] = (scores.get(b, 0.0) - sum(prev) / len(prev), len(prev))
+    return out
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--out", default=os.path.dirname(os.path.abspath(__file__)))
@@ -319,6 +348,12 @@ def main():
     scores, evidence = score_buckets(ll_rows, cg_rows, gh_rows, nostr_total)
     ranked = sorted(scores.items(), key=lambda kv: -kv[1])
 
+    hist_path = os.path.join(args.out, "history.jsonl")
+    history = load_history(hist_path)
+    mom = momentum(scores, history)
+    with open(hist_path, "a") as f:
+        f.write(json.dumps({"ts": int(time.time()), "scores": {b: round(s, 4) for b, s in scores.items()}}) + "\n")
+
     signals = {
         "generated_at": ts.isoformat(),
         "defillama": ll_sum,
@@ -327,8 +362,9 @@ def main():
         "nostr": ns_sum,
         "narrative_scores": {b: round(s, 3) for b, s in ranked},
         "ranked": ranked[:5],
+        "momentum": {b: round(v[0], 3) for b, v in mom.items() if v[1] >= 3},
     }
-    report = build_report(scores, evidence, ts)
+    report = build_report(scores, evidence, ts, momentum=mom)
 
     with open(os.path.join(args.out, "signals.json"), "w") as f:
         json.dump(signals, f, indent=2)
