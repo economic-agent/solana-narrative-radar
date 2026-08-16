@@ -1,11 +1,11 @@
-# Solana Narrative Radar — 2026-08-16 20:12 UTC
+# Solana Narrative Radar — 2026-08-16 20:13 UTC
 
 Detected narratives for the current window, ranked by composite signal
 (TVL momentum + token moves + new dev activity + community mentions).
 
 ## 1. Defi — score 1.32
 
-- TVL Jupiter Perpetual Exchange 7d -5.4% ($681.0M)
+- TVL Jupiter Perpetual Exchange 7d -5.7% ($678.3M)
 - TVL Exponent Yield Exchange 7d +7.7% ($123.1M)
 - TVL Loopscale 7d +10.7% ($91.2M)
 - TVL DFDV Staked SOL 7d +13.7% ($74.5M)
