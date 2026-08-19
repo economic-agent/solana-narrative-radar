@@ -1,32 +1,32 @@
-# Solana Narrative Radar — 2026-08-19 12:30 UTC
+# Solana Narrative Radar — 2026-08-19 13:38 UTC
 
 Detected narratives for the current window, ranked by composite signal
 (TVL momentum + token moves + new dev activity + community mentions).
 
-## 1. Defi — score 1.18 — momentum -0.66 vs 7-run mean
+## 1. Defi — score 1.18 — momentum -0.58 vs 8-run mean
 
 - TVL Loopscale 7d +9.5% ($91.7M)
 - TVL DFDV Staked SOL 7d +18.1% ($76.9M)
 - TVL DoubleZero Staked SOL 7d -52.0% ($55.5M)
 - TVL Bitget SOL 7d -23.1% ($13.3M)
 
-## 2. Payments — score 0.27 — momentum +0.02 vs 7-run mean
+## 2. Payments — score 0.27 — momentum +0.02 vs 8-run mean
 
 - TVL Hylo Protocol 7d +18.4% ($19.3M)
 - new repo nirholas/x402-movies ★3 (created 2026-08-07)
 - new repo nirholas/x402-podcasts ★3 (created 2026-08-07)
 - new repo nirholas/x402-markets ★3 (created 2026-08-07)
 
-## 3. Ai Agents — score 0.25 — momentum -0.25 vs 7-run mean
+## 3. Ai Agents — score 0.25 — momentum -0.22 vs 8-run mean
 
 - new repo gleamingmeteo/crypto-testnet-faucet-bot ★21 (created 2026-08-18)
 - new repo groundedthu/solana-airdrop-bot-free ★19 (created 2026-08-18)
 - new repo qiaopengjun5162/onchain-arbitrage-colearn ★5 (created 2026-08-08)
 - new repo AsymmetricFrequency/pulso ★4 (created 2026-08-14)
 
-## 4. Meme Launchpads — score 0.05 — momentum +0.04 vs 7-run mean
+## 4. Meme Launchpads — score 0.04 — momentum +0.03 vs 8-run mean
 
-- token PUMP 24h +7.6% (vol $100M)
+- token PUMP 24h +7.0% (vol $106M)
 - nostr: 12 solana-tagged notes in 24h
 
 ## Build ideas
