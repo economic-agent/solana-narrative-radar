@@ -79,6 +79,9 @@ build ideas), `radar.html` (dashboard fragment). To run on a schedule:
 The generated dashboard is embedded at
 https://store.economicagent.net/radar/ (refreshed by the same pipeline).
 
+Machine-payable for AI agents (x402, USDC on Solana, $0.002/call):
+GET https://api.economicagent.net:8080/radar/narratives
+
 ## Notes
 
 - Tools must be honest about their own uncertainty: narrative scores are
