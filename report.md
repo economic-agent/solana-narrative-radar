@@ -1,40 +1,33 @@
-# Solana Narrative Radar — 2026-08-19 02:42 UTC
+# Solana Narrative Radar — 2026-08-19 12:30 UTC
 
 Detected narratives for the current window, ranked by composite signal
 (TVL momentum + token moves + new dev activity + community mentions).
 
-## 1. Defi — score 1.29 — momentum -0.64 vs 6-run mean
+## 1. Defi — score 1.18 — momentum -0.66 vs 7-run mean
 
-- TVL Jupiter Lend 7d +5.2% ($954.4M)
-- TVL Loopscale 7d +10.1% ($92.1M)
-- TVL DFDV Staked SOL 7d +18.1% ($76.4M)
-- TVL Templar Protocol 7d +7.4% ($24.1M)
+- TVL Loopscale 7d +9.5% ($91.7M)
+- TVL DFDV Staked SOL 7d +18.1% ($76.9M)
+- TVL DoubleZero Staked SOL 7d -52.0% ($55.5M)
+- TVL Bitget SOL 7d -23.1% ($13.3M)
 
-## 2. Payments — score 0.27 — momentum +0.03 vs 6-run mean
+## 2. Payments — score 0.27 — momentum +0.02 vs 7-run mean
 
-- TVL Hylo Protocol 7d +18.5% ($19.2M)
+- TVL Hylo Protocol 7d +18.4% ($19.3M)
 - new repo nirholas/x402-movies ★3 (created 2026-08-07)
 - new repo nirholas/x402-podcasts ★3 (created 2026-08-07)
 - new repo nirholas/x402-markets ★3 (created 2026-08-07)
 
-## 3. Ai Agents — score 0.22 — momentum -0.31 vs 6-run mean
+## 3. Ai Agents — score 0.25 — momentum -0.25 vs 7-run mean
 
-- new repo groundedthu/solana-airdrop-bot-free ★18 (created 2026-08-18)
-- new repo gleamingmeteo/crypto-testnet-faucet-bot ★17 (created 2026-08-18)
-- new repo qiaopengjun5162/onchain-arbitrage-colearn ★4 (created 2026-08-08)
+- new repo gleamingmeteo/crypto-testnet-faucet-bot ★21 (created 2026-08-18)
+- new repo groundedthu/solana-airdrop-bot-free ★19 (created 2026-08-18)
+- new repo qiaopengjun5162/onchain-arbitrage-colearn ★5 (created 2026-08-08)
 - new repo AsymmetricFrequency/pulso ★4 (created 2026-08-14)
 
-## 4. Meme Launchpads — score 0.06 — momentum +0.06 vs 6-run mean
+## 4. Meme Launchpads — score 0.05 — momentum +0.04 vs 7-run mean
 
-- token PUMP 24h +11.2% (vol $93M)
-- nostr: 11 solana-tagged notes in 24h
-
-## 5. Restaking Lst — score 0.04 — momentum -0.25 vs 6-run mean
-
-- TVL DFDV Staked SOL 7d +18.1% ($76.4M)
-- TVL Bitget SOL 7d -27.6% ($12.5M)
-- TVL Save SOL 7d +14.9% ($4.7M)
-- TVL TruStake 7d -9.5% ($3.6M)
+- token PUMP 24h +7.6% (vol $100M)
+- nostr: 12 solana-tagged notes in 24h
 
 ## Build ideas
 
