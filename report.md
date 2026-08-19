@@ -1,35 +1,40 @@
-# Solana Narrative Radar — 2026-08-16 22:23 UTC
+# Solana Narrative Radar — 2026-08-19 02:42 UTC
 
 Detected narratives for the current window, ranked by composite signal
 (TVL momentum + token moves + new dev activity + community mentions).
 
-## 1. Defi — score 1.57
+## 1. Defi — score 1.29 — momentum -0.64 vs 6-run mean
 
-- TVL Jupiter Perpetual Exchange 7d -5.7% ($677.7M)
-- TVL Exponent Yield Exchange 7d +7.8% ($123.1M)
-- TVL Loopscale 7d +10.6% ($91.2M)
-- TVL DFDV Staked SOL 7d +13.8% ($74.4M)
+- TVL Jupiter Lend 7d +5.2% ($954.4M)
+- TVL Loopscale 7d +10.1% ($92.1M)
+- TVL DFDV Staked SOL 7d +18.1% ($76.4M)
+- TVL Templar Protocol 7d +7.4% ($24.1M)
 
-## 2. Ai Agents — score 0.84
+## 2. Payments — score 0.27 — momentum +0.03 vs 6-run mean
 
-- TVL Upshift 7d +27.3% ($347.4M)
-- token CHIP 24h +9.8% (vol $59M)
-- new repo ascenx/safe_wallet ★120 (created 2026-08-05)
-- new repo neogeeks/tx402 ★5 (created 2026-08-04)
-
-## 3. Restaking Lst — score 0.72
-
-- TVL DFDV Staked SOL 7d +13.8% ($74.4M)
-- TVL Bitget SOL 7d +50.1% ($17.0M)
-- TVL Solayer Restaking 7d -7.0% ($9.0M)
-- TVL Save SOL 7d +11.0% ($4.6M)
-
-## 4. Payments — score 0.23
-
-- TVL Hylo Protocol 7d +15.0% ($18.8M)
+- TVL Hylo Protocol 7d +18.5% ($19.2M)
 - new repo nirholas/x402-movies ★3 (created 2026-08-07)
 - new repo nirholas/x402-podcasts ★3 (created 2026-08-07)
 - new repo nirholas/x402-markets ★3 (created 2026-08-07)
+
+## 3. Ai Agents — score 0.22 — momentum -0.31 vs 6-run mean
+
+- new repo groundedthu/solana-airdrop-bot-free ★18 (created 2026-08-18)
+- new repo gleamingmeteo/crypto-testnet-faucet-bot ★17 (created 2026-08-18)
+- new repo qiaopengjun5162/onchain-arbitrage-colearn ★4 (created 2026-08-08)
+- new repo AsymmetricFrequency/pulso ★4 (created 2026-08-14)
+
+## 4. Meme Launchpads — score 0.06 — momentum +0.06 vs 6-run mean
+
+- token PUMP 24h +11.2% (vol $93M)
+- nostr: 11 solana-tagged notes in 24h
+
+## 5. Restaking Lst — score 0.04 — momentum -0.25 vs 6-run mean
+
+- TVL DFDV Staked SOL 7d +18.1% ($76.4M)
+- TVL Bitget SOL 7d -27.6% ($12.5M)
+- TVL Save SOL 7d +14.9% ($4.7M)
+- TVL TruStake 7d -9.5% ($3.6M)
 
 ## Build ideas
 
@@ -41,15 +46,23 @@ An autonomous agent that rebalances concentrated positions across Raydium/Orca b
 
 Natural-language intents (swap, lend, farm) routed across protocols by a solver network paid in priority fees.
 
-### Idea 3: Agent-paid inference marketplace on Solana
+### Idea 3: Micro-invoice rail for content
+
+Nostr note = invoice: a relay plugin that turns any note into a Blink-powered paywall; creator pays 1%.
+
+### Idea 4: Paylink analytics suite
+
+Tracking + conversion dashboards for Solana paylink sellers; monetize with freemium tiers.
+
+### Idea 5: Agent-paid inference marketplace on Solana
 
 Agents need sub-second inference without bank accounts. A pump.fun-style market where builders deposit USDC for API slots they resell to agents, settled via Solana paylinks, captures agent demand before it reaches exchanges.
 
-### Idea 4: Autonomous agent liveness oracle with slashing
+### Idea 6: Autonomous agent liveness oracle with slashing
 
 A Blinks-powered verifier that DVM-style services call hourly to prove they are alive; provers stake, challengers earn on missed heartbeats.
 
-### Idea 5: Solana-native agent telemetry indexer
+### Idea 7: Solana-native agent telemetry indexer
 
 Streams onchain agent txs into a public dashboard: which programs agents touch most, gas spend, behavior drift. Sell premium feeds to researchers.
 
