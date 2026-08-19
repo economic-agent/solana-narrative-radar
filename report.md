@@ -1,40 +1,40 @@
-# Solana Narrative Radar — 2026-08-19 19:54 UTC
+# Solana Narrative Radar — 2026-08-19 20:57 UTC
 
 Detected narratives for the current window, ranked by composite signal
 (TVL momentum + token moves + new dev activity + community mentions).
 
-## 1. Defi — score 5.76 — momentum +4.07 vs 9-run mean
+## 1. Defi — score 6.09 — momentum +3.99 vs 10-run mean
 
-- TVL Lido 7d +11.7% ($19963.0M)
-- TVL Sanctum Validator LSTs 7d +9.1% ($1216.7M)
-- TVL Kamino Lend 7d +5.4% ($1104.8M)
-- TVL Jupiter Lend 7d +5.2% ($983.5M)
+- TVL Lido 7d +11.6% ($19948.0M)
+- TVL Sanctum Validator LSTs 7d +9.6% ($1225.8M)
+- TVL Kamino Lend 7d +5.4% ($1108.0M)
+- TVL Jupiter Lend 7d +5.1% ($983.1M)
 
-## 2. Restaking Lst — score 2.71 — momentum +2.61 vs 9-run mean
+## 2. Restaking Lst — score 2.79 — momentum +2.43 vs 10-run mean
 
-- TVL Lido 7d +11.7% ($19963.0M)
-- TVL Sanctum Validator LSTs 7d +9.1% ($1216.7M)
+- TVL Lido 7d +11.6% ($19948.0M)
+- TVL Sanctum Validator LSTs 7d +9.6% ($1225.8M)
 - TVL Binance Staked SOL 7d +6.3% ($828.8M)
 - TVL Jito Liquid Staking 7d +8.2% ($820.5M)
 
-## 3. Payments — score 0.39 — momentum +0.13 vs 9-run mean
+## 3. Payments — score 0.39 — momentum +0.12 vs 10-run mean
 
 - TVL Hylo Protocol 7d +26.6% ($20.4M)
 - new repo nirholas/x402-movies ★3 (created 2026-08-07)
 - new repo nirholas/x402-podcasts ★3 (created 2026-08-07)
 - new repo nirholas/x402-markets ★3 (created 2026-08-07)
 
-## 4. Meme Launchpads — score 0.29 — momentum +0.27 vs 9-run mean
+## 4. Meme Launchpads — score 0.30 — momentum +0.26 vs 10-run mean
 
 - TVL PumpSwap 7d +7.2% ($270.7M)
-- TVL Rise.rich 7d +9.4% ($2.3M)
-- token PUMP 24h +9.5% (vol $146M)
-- token BOME 24h +13.3% (vol $45M)
+- TVL Rise.rich 7d +9.9% ($2.3M)
+- token PUMP 24h +11.8% (vol $152M)
+- token BOME 24h +12.7% (vol $46M)
 
-## 5. Ai Agents — score 0.24 — momentum -0.20 vs 9-run mean
+## 5. Ai Agents — score 0.25 — momentum -0.17 vs 10-run mean
 
-- TVL Laine SOL 7d +8.2% ($1.0M)
-- token LINK 24h +5.4% (vol $490M)
+- TVL Laine SOL 7d +8.5% ($1.0M)
+- token LINK 24h +6.3% (vol $577M)
 - new repo qiaopengjun5162/onchain-arbitrage-colearn ★5 (created 2026-08-08)
 - new repo AsymmetricFrequency/pulso ★4 (created 2026-08-14)
 

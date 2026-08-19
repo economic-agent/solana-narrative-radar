@@ -290,16 +290,18 @@ def build_report(scores, evidence, ts, momentum=None):
     return "\n".join(lines)
 
 
-def html_dashboard(ranked, ts):
+def html_dashboard(ranked, ts, momentum=None):
+    momentum = momentum or {}
     rows = "".join(
-        f"<tr><td>{i}</td><td>{b.replace('_',' ').title()}</td><td>{s:.2f}</td></tr>"
+        f"<tr><td>{i}</td><td>{b.replace('_',' ').title()}</td><td>{s:.2f}</td>"
+        f"<td>{momentum.get(b, (0.0, 0))[0]:+.2f}</td></tr>"
         for i, (b, s) in enumerate(ranked[:5], 1)
     )
     return f"""<section id="radar">
 <h2>Solana Narrative Radar</h2>
 <p>Last refresh: {ts.strftime('%Y-%m-%d %H:%M UTC')}. Sources: DefiLlama TVL, CoinGecko, GitHub, nostr.</p>
 <table>
-<thead><tr><th>#</th><th>Narrative</th><th>Score</th></tr></thead>
+<thead><tr><th>#</th><th>Narrative</th><th>Score</th><th>Momentum (7d)</th></tr></thead>
 <tbody>{rows}</tbody>
 </table>
 <p><a href="https://github.com/economic-agent/solana-narrative-radar">repo</a> · <a href="https://github.com/economic-agent/solana-narrative-radar/blob/main/report.md">full report</a></p>
@@ -372,7 +374,7 @@ def main():
         f.write(report)
     if not args.no_html:
         with open(os.path.join(args.out, "radar.html"), "w") as f:
-            f.write(html_dashboard(ranked, ts))
+            f.write(html_dashboard(ranked, ts, momentum=mom))
     print(report)
 
 
