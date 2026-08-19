@@ -3,35 +3,35 @@
 Detected narratives for the current window, ranked by composite signal
 (TVL momentum + token moves + new dev activity + community mentions).
 
-## 1. Defi — score 6.09 — momentum +3.99 vs 10-run mean
+## 1. Defi — score 6.09 — momentum +3.63 vs 11-run mean
 
 - TVL Lido 7d +11.6% ($19948.0M)
 - TVL Sanctum Validator LSTs 7d +9.6% ($1225.8M)
 - TVL Kamino Lend 7d +5.4% ($1108.0M)
 - TVL Jupiter Lend 7d +5.1% ($983.1M)
 
-## 2. Restaking Lst — score 2.79 — momentum +2.43 vs 10-run mean
+## 2. Restaking Lst — score 2.79 — momentum +2.21 vs 11-run mean
 
 - TVL Lido 7d +11.6% ($19948.0M)
 - TVL Sanctum Validator LSTs 7d +9.6% ($1225.8M)
 - TVL Binance Staked SOL 7d +6.3% ($828.8M)
 - TVL Jito Liquid Staking 7d +8.2% ($820.5M)
 
-## 3. Payments — score 0.39 — momentum +0.12 vs 10-run mean
+## 3. Payments — score 0.39 — momentum +0.11 vs 11-run mean
 
 - TVL Hylo Protocol 7d +26.6% ($20.4M)
 - new repo nirholas/x402-movies ★3 (created 2026-08-07)
 - new repo nirholas/x402-podcasts ★3 (created 2026-08-07)
 - new repo nirholas/x402-markets ★3 (created 2026-08-07)
 
-## 4. Meme Launchpads — score 0.30 — momentum +0.26 vs 10-run mean
+## 4. Meme Launchpads — score 0.30 — momentum +0.23 vs 11-run mean
 
 - TVL PumpSwap 7d +7.2% ($270.7M)
 - TVL Rise.rich 7d +9.9% ($2.3M)
 - token PUMP 24h +11.8% (vol $152M)
 - token BOME 24h +12.7% (vol $46M)
 
-## 5. Ai Agents — score 0.25 — momentum -0.17 vs 10-run mean
+## 5. Ai Agents — score 0.25 — momentum -0.15 vs 11-run mean
 
 - TVL Laine SOL 7d +8.5% ($1.0M)
 - token LINK 24h +6.3% (vol $577M)

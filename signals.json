@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T20:57:46.114206+00:00",
+  "generated_at": "2026-08-19T20:57:49.796966+00:00",
   "defillama": {
     "protocols": [
       {
@@ -718,7 +718,7 @@
   },
   "nostr": {
     "hourly_counts": {
-      "2026-08-19T19:00Z": 3,
+      "2026-08-19T19:00Z": 2,
       "2026-08-19T16:00Z": 1,
       "2026-08-19T13:00Z": 1,
       "2026-08-19T12:00Z": 1,
@@ -728,17 +728,16 @@
       "2026-08-19T01:00Z": 2,
       "2026-08-18T22:00Z": 1,
       "_relay_wss://nos.lol": 11,
-      "2026-08-19T20:00Z": 1,
-      "_relay_wss://relay.damus.io": 2
+      "_relay_wss://relay.damus.io": "ERR b'HTTP/1.1 503 Service Unavailable'"
     },
-    "total_24h": 13
+    "total_24h": 11
   },
   "narrative_scores": {
     "defi": 6.094,
     "restaking_lst": 2.79,
     "payments": 0.386,
-    "meme_launchpads": 0.301,
-    "ai_agents": 0.25,
+    "meme_launchpads": 0.3,
+    "ai_agents": 0.248,
     "developer_tooling": 0.205,
     "dao_governance": 0.088,
     "depin_compute": 0.013,
@@ -760,23 +759,23 @@
     ],
     [
       "meme_launchpads",
-      0.30125418006570537
+      0.3000541800657054
     ],
     [
       "ai_agents",
-      0.24974211600773694
+      0.24774211600773693
     ]
   ],
   "momentum": {
-    "ai_agents": -0.168,
-    "restaking_lst": 2.427,
-    "defi": 3.993,
-    "payments": 0.119,
+    "ai_agents": -0.155,
+    "restaking_lst": 2.206,
+    "defi": 3.63,
+    "payments": 0.108,
     "depin_compute": 0.0,
-    "meme_launchpads": 0.257,
+    "meme_launchpads": 0.233,
     "gaming": 0.0,
-    "developer_tooling": 0.18,
-    "dao_governance": 0.08,
+    "developer_tooling": 0.164,
+    "dao_governance": 0.073,
     "identity_social": 0.0
   }
 }
