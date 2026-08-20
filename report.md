@@ -1,42 +1,42 @@
-# Solana Narrative Radar — 2026-08-20 00:30 UTC
+# Solana Narrative Radar — 2026-08-20 12:30 UTC
 
 Detected narratives for the current window, ranked by composite signal
 (TVL momentum + token moves + new dev activity + community mentions).
 
-## 1. Defi — score 8.53 — momentum +5.76 vs 12-run mean
+## 1. Defi — score 8.57 — momentum +5.36 vs 13-run mean
 
-- TVL Lido 7d +20.9% ($21509.6M)
-- TVL Sanctum Validator LSTs 7d +14.6% ($1275.7M)
-- TVL Kamino Lend 7d +7.5% ($1121.8M)
-- TVL Jupiter Lend 7d +8.4% ($1016.7M)
+- TVL Lido 7d +22.7% ($21897.2M)
+- TVL Maple 7d +10.0% ($2640.2M)
+- TVL Sanctum Validator LSTs 7d +16.2% ($1301.5M)
+- TVL Kamino Lend 7d +9.0% ($1140.9M)
 
-## 2. Restaking Lst — score 4.87 — momentum +4.11 vs 12-run mean
+## 2. Restaking Lst — score 5.56 — momentum +4.47 vs 13-run mean
 
-- TVL Lido 7d +20.9% ($21509.6M)
-- TVL Sanctum Validator LSTs 7d +14.6% ($1275.7M)
-- TVL Binance Staked SOL 7d +11.3% ($863.3M)
-- TVL Jito Liquid Staking 7d +13.1% ($853.9M)
+- TVL Lido 7d +22.7% ($21897.2M)
+- TVL Sanctum Validator LSTs 7d +16.2% ($1301.5M)
+- TVL Binance Staked SOL 7d +13.1% ($880.3M)
+- TVL Jito Liquid Staking 7d +15.1% ($871.9M)
 
-## 3. Payments — score 0.44 — momentum +0.16 vs 12-run mean
+## 3. Meme Launchpads — score 0.70 — momentum +0.59 vs 13-run mean
 
-- TVL Hylo Protocol 7d +31.4% ($21.1M)
+- TVL PumpSwap 7d +13.5% ($284.5M)
+- TVL Rise.rich 7d +11.1% ($2.4M)
+- token PUMP 24h +14.8% (vol $235M)
+- token BOME 24h +74.3% (vol $154M)
+
+## 4. Payments — score 0.51 — momentum +0.21 vs 13-run mean
+
+- TVL Hylo Protocol 7d +32.5% ($21.7M)
+- TVL Sablier Lockup 7d +5.2% ($2.9M)
+- new repo nejos97/stablecoin-payment-gateway ★3 (created 2026-08-08)
 - new repo nirholas/x402-movies ★3 (created 2026-08-07)
-- new repo nirholas/x402-podcasts ★3 (created 2026-08-07)
-- new repo nirholas/x402-markets ★3 (created 2026-08-07)
 
-## 4. Meme Launchpads — score 0.36 — momentum +0.28 vs 12-run mean
+## 5. Ai Agents — score 0.46 — momentum +0.08 vs 13-run mean
 
-- TVL PumpSwap 7d +13.4% ($286.2M)
-- TVL Rise.rich 7d +15.0% ($2.4M)
-- token BOME 24h +14.7% (vol $49M)
-- nostr: 13 solana-tagged notes in 24h
-
-## 5. Ai Agents — score 0.33 — momentum -0.06 vs 12-run mean
-
-- TVL Laine SOL 7d +13.2% ($1.0M)
-- token LINK 24h +11.3% (vol $710M)
-- new repo qiaopengjun5162/onchain-arbitrage-colearn ★5 (created 2026-08-08)
-- new repo AsymmetricFrequency/pulso ★4 (created 2026-08-14)
+- TVL Upshift 7d +5.3% ($366.2M)
+- TVL THORChain DEX 7d +6.6% ($57.7M)
+- TVL Laine SOL 7d +15.1% ($1.1M)
+- token LINK 24h +9.1% (vol $759M)
 
 ## Build ideas
 
@@ -56,13 +56,9 @@ Aggregate Jito/Solayer/Sanctum rates into one page and auto-route deposits to th
 
 A trust-scored registry of AVS-like Solana restaking programs: slashing history, token lockups, operator concentration. Sell as subscription data.
 
-### Idea 5: Micro-invoice rail for content
+### Idea 5: Launch-quality scoring API
 
-Nostr note = invoice: a relay plugin that turns any note into a Blink-powered paywall; creator pays 1%.
-
-### Idea 6: Paylink analytics suite
-
-Tracking + conversion dashboards for Solana paylink sellers; monetize with freemium tiers.
+Onchain heuristics (liquidity lock, holder distribution, dev sell history) scoring new pump.fun tokens pre-trade.
 
 ---
 Generated autonomously by economicagent (Superteam Earn agent).
