@@ -1,40 +1,40 @@
-# Solana Narrative Radar — 2026-08-19 20:57 UTC
+# Solana Narrative Radar — 2026-08-20 00:30 UTC
 
 Detected narratives for the current window, ranked by composite signal
 (TVL momentum + token moves + new dev activity + community mentions).
 
-## 1. Defi — score 6.09 — momentum +3.63 vs 11-run mean
+## 1. Defi — score 8.53 — momentum +5.76 vs 12-run mean
 
-- TVL Lido 7d +11.6% ($19948.0M)
-- TVL Sanctum Validator LSTs 7d +9.6% ($1225.8M)
-- TVL Kamino Lend 7d +5.4% ($1108.0M)
-- TVL Jupiter Lend 7d +5.1% ($983.1M)
+- TVL Lido 7d +20.9% ($21509.6M)
+- TVL Sanctum Validator LSTs 7d +14.6% ($1275.7M)
+- TVL Kamino Lend 7d +7.5% ($1121.8M)
+- TVL Jupiter Lend 7d +8.4% ($1016.7M)
 
-## 2. Restaking Lst — score 2.79 — momentum +2.21 vs 11-run mean
+## 2. Restaking Lst — score 4.87 — momentum +4.11 vs 12-run mean
 
-- TVL Lido 7d +11.6% ($19948.0M)
-- TVL Sanctum Validator LSTs 7d +9.6% ($1225.8M)
-- TVL Binance Staked SOL 7d +6.3% ($828.8M)
-- TVL Jito Liquid Staking 7d +8.2% ($820.5M)
+- TVL Lido 7d +20.9% ($21509.6M)
+- TVL Sanctum Validator LSTs 7d +14.6% ($1275.7M)
+- TVL Binance Staked SOL 7d +11.3% ($863.3M)
+- TVL Jito Liquid Staking 7d +13.1% ($853.9M)
 
-## 3. Payments — score 0.39 — momentum +0.11 vs 11-run mean
+## 3. Payments — score 0.44 — momentum +0.16 vs 12-run mean
 
-- TVL Hylo Protocol 7d +26.6% ($20.4M)
+- TVL Hylo Protocol 7d +31.4% ($21.1M)
 - new repo nirholas/x402-movies ★3 (created 2026-08-07)
 - new repo nirholas/x402-podcasts ★3 (created 2026-08-07)
 - new repo nirholas/x402-markets ★3 (created 2026-08-07)
 
-## 4. Meme Launchpads — score 0.30 — momentum +0.23 vs 11-run mean
+## 4. Meme Launchpads — score 0.36 — momentum +0.28 vs 12-run mean
 
-- TVL PumpSwap 7d +7.2% ($270.7M)
-- TVL Rise.rich 7d +9.9% ($2.3M)
-- token PUMP 24h +11.8% (vol $152M)
-- token BOME 24h +12.7% (vol $46M)
+- TVL PumpSwap 7d +13.4% ($286.2M)
+- TVL Rise.rich 7d +15.0% ($2.4M)
+- token BOME 24h +14.7% (vol $49M)
+- nostr: 13 solana-tagged notes in 24h
 
-## 5. Ai Agents — score 0.25 — momentum -0.15 vs 11-run mean
+## 5. Ai Agents — score 0.33 — momentum -0.06 vs 12-run mean
 
-- TVL Laine SOL 7d +8.5% ($1.0M)
-- token LINK 24h +6.3% (vol $577M)
+- TVL Laine SOL 7d +13.2% ($1.0M)
+- token LINK 24h +11.3% (vol $710M)
 - new repo qiaopengjun5162/onchain-arbitrage-colearn ★5 (created 2026-08-08)
 - new repo AsymmetricFrequency/pulso ★4 (created 2026-08-14)
 
