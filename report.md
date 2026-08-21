@@ -1,42 +1,42 @@
-# Solana Narrative Radar — 2026-08-20 12:30 UTC
+# Solana Narrative Radar — 2026-08-21 00:30 UTC
 
 Detected narratives for the current window, ranked by composite signal
 (TVL momentum + token moves + new dev activity + community mentions).
 
-## 1. Defi — score 8.57 — momentum +5.36 vs 13-run mean
+## 1. Defi — score 8.63 — momentum +5.03 vs 14-run mean
 
-- TVL Lido 7d +22.7% ($21897.2M)
-- TVL Maple 7d +10.0% ($2640.2M)
-- TVL Sanctum Validator LSTs 7d +16.2% ($1301.5M)
-- TVL Kamino Lend 7d +9.0% ($1140.9M)
+- TVL Lido 7d +24.5% ($22249.7M)
+- TVL Maple 7d +10.2% ($2633.0M)
+- TVL Sanctum Validator LSTs 7d +14.8% ($1307.1M)
+- TVL Kamino Lend 7d +8.6% ($1136.9M)
 
-## 2. Restaking Lst — score 5.56 — momentum +4.47 vs 13-run mean
+## 2. Restaking Lst — score 5.52 — momentum +4.12 vs 14-run mean
 
-- TVL Lido 7d +22.7% ($21897.2M)
-- TVL Sanctum Validator LSTs 7d +16.2% ($1301.5M)
-- TVL Binance Staked SOL 7d +13.1% ($880.3M)
-- TVL Jito Liquid Staking 7d +15.1% ($871.9M)
+- TVL Lido 7d +24.5% ($22249.7M)
+- TVL Sanctum Validator LSTs 7d +14.8% ($1307.1M)
+- TVL Binance Staked SOL 7d +13.2% ($884.9M)
+- TVL Jito Liquid Staking 7d +15.2% ($876.5M)
 
-## 3. Meme Launchpads — score 0.70 — momentum +0.59 vs 13-run mean
+## 3. Meme Launchpads — score 0.55 — momentum +0.40 vs 14-run mean
 
-- TVL PumpSwap 7d +13.5% ($284.5M)
-- TVL Rise.rich 7d +11.1% ($2.4M)
-- token PUMP 24h +14.8% (vol $235M)
-- token BOME 24h +74.3% (vol $154M)
+- TVL PumpSwap 7d +16.2% ($291.0M)
+- TVL Rise.rich 7d +6.2% ($2.3M)
+- token PUMP 24h +27.8% (vol $301M)
+- token BOME 24h +33.7% (vol $199M)
 
-## 4. Payments — score 0.51 — momentum +0.21 vs 13-run mean
+## 4. Ai Agents — score 0.40 — momentum +0.01 vs 14-run mean
 
-- TVL Hylo Protocol 7d +32.5% ($21.7M)
-- TVL Sablier Lockup 7d +5.2% ($2.9M)
-- new repo nejos97/stablecoin-payment-gateway ★3 (created 2026-08-08)
-- new repo nirholas/x402-movies ★3 (created 2026-08-07)
-
-## 5. Ai Agents — score 0.46 — momentum +0.08 vs 13-run mean
-
-- TVL Upshift 7d +5.3% ($366.2M)
-- TVL THORChain DEX 7d +6.6% ($57.7M)
+- TVL Upshift 7d +6.8% ($371.1M)
+- TVL THORChain DEX 7d +7.7% ($58.3M)
 - TVL Laine SOL 7d +15.1% ($1.1M)
-- token LINK 24h +9.1% (vol $759M)
+- new repo qiaopengjun5162/onchain-arbitrage-colearn ★5 (created 2026-08-08)
+
+## 5. Developer Tooling — score 0.32 — momentum +0.23 vs 14-run mean
+
+- TVL Sanctum Validator LSTs 7d +14.8% ($1307.1M)
+- TVL Adrastea Validator 7d +15.9% ($23.5M)
+- new repo fluxrpc/solana-go ★2 (created 2026-08-12)
+- new repo daronthedragon/solana-rent-reclaim ★2 (created 2026-08-19)
 
 ## Build ideas
 

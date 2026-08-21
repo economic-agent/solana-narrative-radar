@@ -1,246 +1,246 @@
 {
-  "generated_at": "2026-08-20T12:30:02.025996+00:00",
+  "generated_at": "2026-08-21T00:30:02.040667+00:00",
   "defillama": {
     "protocols": [
       {
         "name": "Binance CEX",
         "category": "CEX",
-        "tvl": 149934255412.3138,
-        "change_7d": 7.528599977587106
+        "tvl": 151903386464.3264,
+        "change_7d": 9.208235246258425
       },
       {
         "name": "OKX",
         "category": "CEX",
-        "tvl": 28184998720.121075,
-        "change_7d": 7.623651806609729
+        "tvl": 28432838505.904755,
+        "change_7d": 8.53254773248149
       },
       {
         "name": "Lido",
         "category": "Liquid Staking",
-        "tvl": 21897240775.604763,
-        "change_7d": 22.685712938763942
+        "tvl": 22249665780.364727,
+        "change_7d": 24.541916062155366
       },
       {
         "name": "Bitfinex",
         "category": "CEX",
-        "tvl": 17941668846.71878,
-        "change_7d": 7.601338659375273
+        "tvl": 18238597521.47624,
+        "change_7d": 8.954117852399463
       },
       {
         "name": "Bybit",
         "category": "CEX",
-        "tvl": 14711003339.01948,
-        "change_7d": 7.093804413482815
+        "tvl": 14979976211.238451,
+        "change_7d": 8.844355492777893
       },
       {
         "name": "Gate",
         "category": "CEX",
-        "tvl": 6052252413.703239,
-        "change_7d": 6.280908000379966
+        "tvl": 6112040649.333778,
+        "change_7d": 7.3470100812276655
       },
       {
         "name": "Bitget",
         "category": "CEX",
-        "tvl": 5493998670.8021555,
-        "change_7d": 7.682490845430223
+        "tvl": 5554985283.884111,
+        "change_7d": 9.051169684145236
       },
       {
         "name": "MEXC",
         "category": "CEX",
-        "tvl": 4949363530.406033,
-        "change_7d": 3.468503455082228
+        "tvl": 4983388130.823371,
+        "change_7d": 4.219575633347247
       },
       {
         "name": "Deribit",
         "category": "CEX",
-        "tvl": 4800883142.503807,
-        "change_7d": 15.249741750698405
+        "tvl": 4839654267.941273,
+        "change_7d": 16.883041833307615
       },
       {
         "name": "HTX",
         "category": "CEX",
-        "tvl": 4144196092.127092,
-        "change_7d": 1.6548278062108466
+        "tvl": 4213320112.5327744,
+        "change_7d": 3.8920932695812667
       },
       {
         "name": "BlackRock BUIDL",
         "category": "RWA",
-        "tvl": 3541893177.5304484,
-        "change_7d": -0.03949425627564551
+        "tvl": 3527261508.880449,
+        "change_7d": -0.5326888768176161
       },
       {
         "name": "Steakhouse Financial",
         "category": "Risk Curators",
-        "tvl": 3188151045.074369,
-        "change_7d": 0.1877654665877202
+        "tvl": 3176633265.5161166,
+        "change_7d": -0.5591654541037911
       },
       {
         "name": "KuCoin",
         "category": "CEX",
-        "tvl": 3113359117.233591,
-        "change_7d": 27.062571180501592
+        "tvl": 3174453240.8983374,
+        "change_7d": 29.289751441279464
       },
       {
         "name": "Maple",
         "category": "Lending",
-        "tvl": 2640160666.9456415,
-        "change_7d": 9.970823099998213
+        "tvl": 2632958194.711313,
+        "change_7d": 10.19509745198907
       },
       {
         "name": "Ondo Yield Assets",
         "category": "RWA",
-        "tvl": 2515222257.9124346,
-        "change_7d": -0.05643233408851245
+        "tvl": 2510282199.7442064,
+        "change_7d": -0.1911680582366415
       },
       {
         "name": "Sentora",
         "category": "Risk Curators",
-        "tvl": 2320665403.5623045,
-        "change_7d": 4.240102212321872
+        "tvl": 2319407804.26489,
+        "change_7d": 3.7239922726544137
       },
       {
         "name": "CCIP",
         "category": "Bridge",
-        "tvl": 1834448742.5769808,
-        "change_7d": 1.8671171569850458
+        "tvl": 1837731077.0978608,
+        "change_7d": 2.386731098472623
       },
       {
         "name": "HashKey Exchange",
         "category": "CEX",
-        "tvl": 1518136726.7837272,
-        "change_7d": 12.289475907409184
+        "tvl": 1538541821.7284956,
+        "change_7d": 13.917548770616065
       },
       {
         "name": "Portal",
         "category": "Bridge",
-        "tvl": 1481956267.8754017,
-        "change_7d": 8.605456830590285
+        "tvl": 1510586153.2628837,
+        "change_7d": 11.566781958686008
       },
       {
         "name": "Gauntlet",
         "category": "Risk Curators",
-        "tvl": 1461030687.8581889,
-        "change_7d": 3.579953948188958
+        "tvl": 1474301626.7440586,
+        "change_7d": 4.194591259506652
       },
       {
         "name": "Poloniex",
         "category": "CEX",
-        "tvl": 1437695319.8719575,
-        "change_7d": 20.244561845404803
+        "tvl": 1442140479.5941932,
+        "change_7d": 20.910544164466756
       },
       {
         "name": "Bitstamp",
         "category": "CEX",
-        "tvl": 1374178852.51059,
-        "change_7d": 46.42197771337183
-      },
-      {
-        "name": "Sanctum Validator LSTs",
-        "category": "Liquid Staking",
-        "tvl": 1301518693.0440278,
-        "change_7d": 16.198914401522615
+        "tvl": 1399281997.6936061,
+        "change_7d": 49.50579991905363
       },
       {
         "name": "Bitkub",
         "category": "CEX",
-        "tvl": 1294203362.8887777,
-        "change_7d": 13.500451217153554
+        "tvl": 1315947100.1131914,
+        "change_7d": 15.924190333848571
+      },
+      {
+        "name": "Sanctum Validator LSTs",
+        "category": "Liquid Staking",
+        "tvl": 1307074860.9230046,
+        "change_7d": 14.75713404088414
       },
       {
         "name": "Kamino Lend",
         "category": "Lending",
-        "tvl": 1140897250.5827184,
-        "change_7d": 9.012471216544384
+        "tvl": 1136873721.7024593,
+        "change_7d": 8.622071000620906
       },
       {
         "name": "Jupiter Lend",
         "category": "Lending",
-        "tvl": 1025743071.9878242,
-        "change_7d": 9.576093297567965
+        "tvl": 1021300970.1943777,
+        "change_7d": 9.09458775573195
       },
       {
         "name": "Ondo Global Markets",
         "category": "RWA",
-        "tvl": 972597629.8921967,
-        "change_7d": 1.8335486403118466
+        "tvl": 967872155.7635587,
+        "change_7d": -0.027768331913918587
       },
       {
         "name": "Raydium AMM",
         "category": "Dexs",
-        "tvl": 959723629.2099655,
-        "change_7d": 12.834782785826704
+        "tvl": 958867497.2170137,
+        "change_7d": 12.541531188602775
       },
       {
         "name": "SwissBorg",
         "category": "CEX",
-        "tvl": 909242338.7190814,
-        "change_7d": 12.15440852154957
+        "tvl": 920155914.8922119,
+        "change_7d": 13.845543351575643
       },
       {
         "name": "Binance Staked SOL",
         "category": "Liquid Staking",
-        "tvl": 880277348.454096,
-        "change_7d": 13.089251596232884
+        "tvl": 884903013.9278917,
+        "change_7d": 13.186070961424463
       },
       {
         "name": "Jito Liquid Staking",
         "category": "Liquid Staking",
-        "tvl": 871896170.7063544,
-        "change_7d": 15.131049479269421
+        "tvl": 876480602.4145366,
+        "change_7d": 15.19874565663224
       },
       {
         "name": "Bitmex",
         "category": "CEX",
-        "tvl": 792653662.0863786,
-        "change_7d": 7.749266711819857
+        "tvl": 798151075.1151059,
+        "change_7d": 9.035961411651357
       },
       {
         "name": "Jupiter Perpetual Exchange",
         "category": "Derivatives",
-        "tvl": 746618269.9022148,
-        "change_7d": 7.73975974133559
-      },
-      {
-        "name": "Invesco USTB",
-        "category": "RWA",
-        "tvl": 699619730.8934516,
-        "change_7d": -9.93046888090899
+        "tvl": 721354076.0720947,
+        "change_7d": 4.410138086342343
       },
       {
         "name": "OSL HK",
         "category": "CEX",
-        "tvl": 668508022.5661805,
-        "change_7d": 13.414790613146792
+        "tvl": 679913837.8940067,
+        "change_7d": 14.871362882779621
+      },
+      {
+        "name": "Invesco USTB",
+        "category": "RWA",
+        "tvl": 663993314.344184,
+        "change_7d": -14.444570779756958
       },
       {
         "name": "Unit",
         "category": "Bridge",
-        "tvl": 640965790.4883764,
-        "change_7d": 16.510891682968648
+        "tvl": 645134262.9191742,
+        "change_7d": 16.205395773735162
       },
       {
         "name": "BingX",
         "category": "CEX",
-        "tvl": 623497133.8909594,
-        "change_7d": 3.7652667939294275
+        "tvl": 628693853.7097043,
+        "change_7d": 3.6317057099165737
       },
       {
         "name": "Hastra",
         "category": "RWA",
-        "tvl": 586916792.8353872,
-        "change_7d": 9.246662457603435
+        "tvl": 588510749.5963433,
+        "change_7d": 9.382384875695422
       },
       {
         "name": "Solstice",
         "category": "Basis Trading",
-        "tvl": 506075712.1407049,
-        "change_7d": 0.04688660614600337
+        "tvl": 506242825.5496211,
+        "change_7d": 0.03394180018447912
       },
       {
         "name": "Bitvavo",
         "category": "CEX",
-        "tvl": 485346171.80024844,
-        "change_7d": 13.734829272243616
+        "tvl": 496984321.7765938,
+        "change_7d": 17.07740445094646
       }
     ]
   },
@@ -250,351 +250,351 @@
         "symbol": "USDT",
         "name": "Tether",
         "price_change_24h": 0.0,
-        "volume": 107399413049,
-        "market_cap": 182986096886
+        "volume": 89586111462,
+        "market_cap": 183048442974
       },
       {
         "symbol": "USDC",
         "name": "USDC",
         "price_change_24h": 0.0,
-        "volume": 27323477671,
-        "market_cap": 72267867108
+        "volume": 22589999626,
+        "market_cap": 72783913776
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "price_change_24h": 13.0,
-        "volume": 5810057206,
-        "market_cap": 50662835314
+        "price_change_24h": 2.7,
+        "volume": 4154151501,
+        "market_cap": 51621978315
       },
       {
         "symbol": "USD1",
         "name": "USD1",
         "price_change_24h": 0.0,
-        "volume": 3774841353,
-        "market_cap": 3992613445
+        "volume": 2821120913,
+        "market_cap": 3984920399
       },
       {
         "symbol": "WSOL",
         "name": "Wrapped SOL",
-        "price_change_24h": 12.9,
-        "volume": 1100081895,
-        "market_cap": 1066064089
+        "price_change_24h": 2.6,
+        "volume": 688150863,
+        "market_cap": 1064895155
       },
       {
         "symbol": "CBBTC",
         "name": "Coinbase Wrapped BTC",
-        "price_change_24h": 11.5,
-        "volume": 762921643,
-        "market_cap": 7014571137
+        "price_change_24h": 5.5,
+        "volume": 580813150,
+        "market_cap": 7230614322
       },
       {
         "symbol": "LINK",
         "name": "Chainlink",
-        "price_change_24h": 9.1,
-        "volume": 759252980,
-        "market_cap": 7905117221
+        "price_change_24h": 1.2,
+        "volume": 487202124,
+        "market_cap": 8062625013
       },
       {
         "symbol": "USDG",
         "name": "Global Dollar",
         "price_change_24h": 0.0,
-        "volume": 632988585,
-        "market_cap": 3463140794
+        "volume": 383772211,
+        "market_cap": 3443014553
       },
       {
-        "symbol": "TRUMP",
-        "name": "Official Trump",
-        "price_change_24h": 18.1,
-        "volume": 388359978,
-        "market_cap": 411162246
-      },
-      {
-        "symbol": "WBTC",
-        "name": "Wrapped Bitcoin",
-        "price_change_24h": 11.6,
-        "volume": 370300954,
-        "market_cap": 8335297177
-      },
-      {
-        "symbol": "AAVE",
-        "name": "Aave",
-        "price_change_24h": 11.3,
-        "volume": 293643315,
-        "market_cap": 1497995634
+        "symbol": "ENA",
+        "name": "Ethena",
+        "price_change_24h": 23.9,
+        "volume": 341991129,
+        "market_cap": 1160370172
       },
       {
         "symbol": "USDS",
         "name": "USDS",
         "price_change_24h": 0.0,
-        "volume": 290201398,
-        "market_cap": 9721734143
+        "volume": 309590219,
+        "market_cap": 9743730105
       },
       {
         "symbol": "PUMP",
         "name": "Pump.fun",
-        "price_change_24h": 14.8,
-        "volume": 234812071,
-        "market_cap": 1335137345
+        "price_change_24h": 27.8,
+        "volume": 301176275,
+        "market_cap": 1488621264
       },
       {
-        "symbol": "ENA",
-        "name": "Ethena",
-        "price_change_24h": 19.3,
-        "volume": 216520289,
-        "market_cap": 975090984
+        "symbol": "TRUMP",
+        "name": "Official Trump",
+        "price_change_24h": -5.6,
+        "volume": 275694258,
+        "market_cap": 408156901
+      },
+      {
+        "symbol": "AAVE",
+        "name": "Aave",
+        "price_change_24h": 4.2,
+        "volume": 245151559,
+        "market_cap": 1528571721
+      },
+      {
+        "symbol": "WBTC",
+        "name": "Wrapped Bitcoin",
+        "price_change_24h": 5.5,
+        "volume": 224533597,
+        "market_cap": 8563547323
+      },
+      {
+        "symbol": "BOME",
+        "name": "BOOK OF MEME",
+        "price_change_24h": 33.7,
+        "volume": 198843798,
+        "market_cap": 81590928
       },
       {
         "symbol": "PYUSD",
         "name": "PayPal USD",
         "price_change_24h": 0.0,
-        "volume": 197291676,
-        "market_cap": 2777071111
-      },
-      {
-        "symbol": "BOME",
-        "name": "BOOK OF MEME",
-        "price_change_24h": 74.3,
-        "volume": 154180711,
-        "market_cap": 88417494
+        "volume": 189209085,
+        "market_cap": 2818916929
       },
       {
         "symbol": "PENGU",
         "name": "Pudgy Penguins",
-        "price_change_24h": 15.7,
-        "volume": 146711475,
-        "market_cap": 452808170
-      },
-      {
-        "symbol": "USDCV",
-        "name": "USD CoinVertible",
-        "price_change_24h": 0.1,
-        "volume": 91463398,
-        "market_cap": 12266548
-      },
-      {
-        "symbol": "HYPE",
-        "name": "Wormhole Bridged HYPE",
-        "price_change_24h": 22.8,
-        "volume": 84781771,
-        "market_cap": 54719173
+        "price_change_24h": 11.4,
+        "volume": 122885319,
+        "market_cap": 450419501
       },
       {
         "symbol": "VIRTUAL",
         "name": "Virtuals Protocol",
-        "price_change_24h": 12.0,
-        "volume": 81732941,
-        "market_cap": 417871286
+        "price_change_24h": 5.8,
+        "volume": 75846395,
+        "market_cap": 424585490
+      },
+      {
+        "symbol": "USDCV",
+        "name": "USD CoinVertible",
+        "price_change_24h": 0.0,
+        "volume": 61552319,
+        "market_cap": 12265275
+      },
+      {
+        "symbol": "BIO",
+        "name": "Bio Protocol",
+        "price_change_24h": 13.5,
+        "volume": 58745231,
+        "market_cap": 67414355
+      },
+      {
+        "symbol": "BULLBALLS",
+        "name": "Bullballs Coin",
+        "price_change_24h": 2051.8,
+        "volume": 57194391,
+        "market_cap": 16656172
+      },
+      {
+        "symbol": "WLFI",
+        "name": "World Liberty Financial",
+        "price_change_24h": -2.6,
+        "volume": 57193541,
+        "market_cap": 1915699013
+      },
+      {
+        "symbol": "WIF",
+        "name": "dogwifhat",
+        "price_change_24h": 13.1,
+        "volume": 57097971,
+        "market_cap": 166160410
+      },
+      {
+        "symbol": "HYPE",
+        "name": "Wormhole Bridged HYPE",
+        "price_change_24h": 4.0,
+        "volume": 53463530,
+        "market_cap": 56490434
+      },
+      {
+        "symbol": "GALA",
+        "name": "GALA",
+        "price_change_24h": 13.9,
+        "volume": 51774473,
+        "market_cap": 80488661
+      },
+      {
+        "symbol": "PYTH",
+        "name": "Pyth Network",
+        "price_change_24h": 5.5,
+        "volume": 50787669,
+        "market_cap": 350137782
       },
       {
         "symbol": "USDE",
         "name": "Ethena USDe",
         "price_change_24h": 0.0,
-        "volume": 71704610,
-        "market_cap": 4087606594
-      },
-      {
-        "symbol": "BIO",
-        "name": "Bio Protocol",
-        "price_change_24h": 26.2,
-        "volume": 71671431,
-        "market_cap": 65348661
-      },
-      {
-        "symbol": "WLFI",
-        "name": "World Liberty Financial",
-        "price_change_24h": 1.4,
-        "volume": 60493886,
-        "market_cap": 1950822851
+        "volume": 49463631,
+        "market_cap": 4073379679
       },
       {
         "symbol": "EURC",
         "name": "EURC",
-        "price_change_24h": 0.7,
-        "volume": 55513463,
-        "market_cap": 464047523
-      },
-      {
-        "symbol": "BULLBALLS",
-        "name": "Bullballs Coin",
-        "price_change_24h": 1154.2,
-        "volume": 52011832,
-        "market_cap": 16228837
-      },
-      {
-        "symbol": "MET",
-        "name": "Meteora",
-        "price_change_24h": 21.8,
-        "volume": 48653389,
-        "market_cap": 113927714
+        "price_change_24h": 0.1,
+        "volume": 48340232,
+        "market_cap": 471081288
       },
       {
         "symbol": "RENDER",
         "name": "Render",
-        "price_change_24h": 10.1,
-        "volume": 48489206,
-        "market_cap": 717008047
-      },
-      {
-        "symbol": "UP",
-        "name": "Unitas",
-        "price_change_24h": 3.5,
-        "volume": 45683852,
-        "market_cap": 80509872
+        "price_change_24h": 2.0,
+        "volume": 45569113,
+        "market_cap": 729475366
       },
       {
         "symbol": "BONK",
         "name": "Bonk",
-        "price_change_24h": 13.5,
-        "volume": 45016783,
-        "market_cap": 231722848
+        "price_change_24h": 7.0,
+        "volume": 45203914,
+        "market_cap": 233462889
       },
       {
         "symbol": "CAKE",
         "name": "PancakeSwap",
-        "price_change_24h": 5.2,
-        "volume": 43356547,
-        "market_cap": 519292357
-      },
-      {
-        "symbol": "PYBOBO",
-        "name": "Capybobo",
-        "price_change_24h": -16.1,
-        "volume": 42501112,
-        "market_cap": 23241824
-      },
-      {
-        "symbol": "XAUT0",
-        "name": "Tether Gold Tokens",
-        "price_change_24h": 2.3,
-        "volume": 42342304,
-        "market_cap": 121404648
-      },
-      {
-        "symbol": "WIF",
-        "name": "dogwifhat",
-        "price_change_24h": 15.7,
-        "volume": 40519316,
-        "market_cap": 157505527
-      },
-      {
-        "symbol": "ETH",
-        "name": "Ethereum (Wormhole)",
-        "price_change_24h": 19.7,
-        "volume": 40020586,
-        "market_cap": 0.0
+        "price_change_24h": 1.7,
+        "volume": 43116895,
+        "market_cap": 528136240
       },
       {
         "symbol": "ORDI",
         "name": "ORDI",
-        "price_change_24h": 30.5,
-        "volume": 38939871,
-        "market_cap": 90894644
-      },
-      {
-        "symbol": "JITOSOL",
-        "name": "Jito Staked SOL",
-        "price_change_24h": 13.0,
-        "volume": 38736997,
-        "market_cap": 868269452
-      },
-      {
-        "symbol": "PRL",
-        "name": "Perle",
-        "price_change_24h": -30.1,
-        "volume": 37388479,
-        "market_cap": 49980344
-      },
-      {
-        "symbol": "JUP",
-        "name": "Jupiter",
-        "price_change_24h": 13.3,
-        "volume": 35632116,
-        "market_cap": 621114711
-      },
-      {
-        "symbol": "BB",
-        "name": "BounceBit",
-        "price_change_24h": -15.4,
-        "volume": 34099153,
-        "market_cap": 3706644
-      },
-      {
-        "symbol": "EURCV",
-        "name": "EUR CoinVertible",
-        "price_change_24h": 0.7,
-        "volume": 32809945,
-        "market_cap": 169346097
-      },
-      {
-        "symbol": "CHZ",
-        "name": "Chiliz",
-        "price_change_24h": 7.8,
-        "volume": 32109165,
-        "market_cap": 134419577
-      },
-      {
-        "symbol": "PYTH",
-        "name": "Pyth Network",
-        "price_change_24h": 15.9,
-        "volume": 30888037,
-        "market_cap": 342601874
-      },
-      {
-        "symbol": "FARTCOIN",
-        "name": "Fartcoin",
-        "price_change_24h": 9.8,
-        "volume": 29096074,
-        "market_cap": 154896445
+        "price_change_24h": 14.9,
+        "volume": 42176479,
+        "market_cap": 88122325
       },
       {
         "symbol": "PNUT",
         "name": "Peanut the Squirrel",
-        "price_change_24h": 27.0,
-        "volume": 29095863,
-        "market_cap": 52219698
+        "price_change_24h": 17.3,
+        "volume": 39667545,
+        "market_cap": 52243002
       },
       {
-        "symbol": "GRASS",
-        "name": "Grass",
-        "price_change_24h": -1.9,
-        "volume": 27780597,
-        "market_cap": 199073819
+        "symbol": "MET",
+        "name": "Meteora",
+        "price_change_24h": 5.7,
+        "volume": 39566965,
+        "market_cap": 116076946
       },
       {
-        "symbol": "GALA",
-        "name": "GALA",
-        "price_change_24h": 10.5,
-        "volume": 27409704,
-        "market_cap": 73721857
+        "symbol": "FARTCOIN",
+        "name": "Fartcoin",
+        "price_change_24h": 8.0,
+        "volume": 39362174,
+        "market_cap": 169475279
+      },
+      {
+        "symbol": "JUPUSD",
+        "name": "JupUSD",
+        "price_change_24h": 0.0,
+        "volume": 34876383,
+        "market_cap": 48415629
+      },
+      {
+        "symbol": "JUP",
+        "name": "Jupiter",
+        "price_change_24h": 6.4,
+        "volume": 34334891,
+        "market_cap": 638308796
+      },
+      {
+        "symbol": "JTO",
+        "name": "Jito",
+        "price_change_24h": 0.1,
+        "volume": 33301823,
+        "market_cap": 298236474
       },
       {
         "symbol": "USDGO",
         "name": "USDGO",
         "price_change_24h": 0.0,
-        "volume": 26446766,
-        "market_cap": 1178327611
+        "volume": 32996795,
+        "market_cap": 1158081333
+      },
+      {
+        "symbol": "BB",
+        "name": "BounceBit",
+        "price_change_24h": -0.7,
+        "volume": 31869362,
+        "market_cap": 3935354
+      },
+      {
+        "symbol": "CHZ",
+        "name": "Chiliz",
+        "price_change_24h": 3.0,
+        "volume": 30437795,
+        "market_cap": 139594149
+      },
+      {
+        "symbol": "UP",
+        "name": "Unitas",
+        "price_change_24h": -1.4,
+        "volume": 30313377,
+        "market_cap": 82200830
+      },
+      {
+        "symbol": "XAUT0",
+        "name": "Tether Gold Tokens",
+        "price_change_24h": 0.2,
+        "volume": 29820226,
+        "market_cap": 123047277
+      },
+      {
+        "symbol": "GRASS",
+        "name": "Grass",
+        "price_change_24h": 8.2,
+        "volume": 28087106,
+        "market_cap": 207180081
       },
       {
         "symbol": "PORTAL",
         "name": "Portal",
-        "price_change_24h": -16.7,
-        "volume": 25892538,
-        "market_cap": 9937539
+        "price_change_24h": 7.9,
+        "volume": 27349337,
+        "market_cap": 10133718
       },
       {
-        "symbol": "JTO",
-        "name": "Jito",
-        "price_change_24h": 8.2,
-        "volume": 24117339,
-        "market_cap": 297781500
+        "symbol": "EURCV",
+        "name": "EUR CoinVertible",
+        "price_change_24h": 0.0,
+        "volume": 27320964,
+        "market_cap": 169373435
       },
       {
-        "symbol": "SPCXX",
-        "name": "SpaceX xStock",
-        "price_change_24h": -3.9,
-        "volume": 21988428,
-        "market_cap": 37162570
+        "symbol": "PRL",
+        "name": "Perle",
+        "price_change_24h": -17.7,
+        "volume": 25402754,
+        "market_cap": 42945030
+      },
+      {
+        "symbol": "AUSD",
+        "name": "AUSD",
+        "price_change_24h": 0.0,
+        "volume": 24760223,
+        "market_cap": 214138955
+      },
+      {
+        "symbol": "JITOSOL",
+        "name": "Jito Staked SOL",
+        "price_change_24h": 2.5,
+        "volume": 24031504,
+        "market_cap": 883658458
+      },
+      {
+        "symbol": "VINE",
+        "name": "Vine",
+        "price_change_24h": 12.4,
+        "volume": 21588185,
+        "market_cap": 8097207
       }
     ]
   },
@@ -619,6 +619,12 @@
         "created": "2026-08-10"
       },
       {
+        "name": "anneliesepettii/Solana-Sniper-Bot-Raydium-Jito",
+        "description": "",
+        "stars": 9,
+        "created": "2026-08-20"
+      },
+      {
         "name": "qiaopengjun5162/onchain-arbitrage-colearn",
         "description": "\u94fe\u4e0a\u5957\u5229\u6b8b\u9177\u5171\u5b66\u77e5\u8bc6\u5e93\uff1aDeFi\u6e05\u7b97/\u8de8\u6240\u4ef7\u5dee/\u8d44\u91d1\u8d39\u7387/DEX\u5957\u5229\u7814\u7a76\u7b14\u8bb0 + 8\u4e2a\u76d1\u63a7\u54e8\u5175 + Python/Rust\u53cc\u5b9e\u73b0",
         "stars": 5,
@@ -627,8 +633,14 @@
       {
         "name": "udaysharmadev/Web-3-Free-Resources",
         "description": "\ud83c\udf10 32+ Free Web3, Blockchain & Solidity resources with learning roadmaps, mermaid diagrams, and Hindi YouTube tutorials from zero to dApp builder. \u20b90 cost.",
-        "stars": 4,
+        "stars": 5,
         "created": "2026-08-18"
+      },
+      {
+        "name": "berkayoztunc/LocalWallet",
+        "description": "Local wallet vault",
+        "stars": 4,
+        "created": "2026-08-10"
       },
       {
         "name": "AsymmetricFrequency/pulso",
@@ -643,110 +655,102 @@
         "created": "2026-08-08"
       },
       {
-        "name": "berkayoztunc/LocalWallet",
-        "description": "Local wallet vault",
-        "stars": 3,
-        "created": "2026-08-10"
+        "name": "fluxrpc/solana-go",
+        "description": "Optimized Golang SDK for Solana - RPC, Websocket, Yellowstone Optimised Support",
+        "stars": 2,
+        "created": "2026-08-12"
       },
       {
-        "name": "nirholas/x402-movies",
-        "description": "Movie catalog concierge over TMDB \u2014 search, details, and recommendations per query, paid in USDC on Base or Solana via x402",
-        "stars": 3,
-        "created": "2026-08-07"
+        "name": "Raghunandan-79/rust-for-solana",
+        "description": "",
+        "stars": 2,
+        "created": "2026-08-20"
       },
       {
-        "name": "nirholas/x402-podcasts",
-        "description": "Podcast search and episode intel over the Podcast Index API, per query. Pay in USDC on Base or Solana via x402.",
-        "stars": 3,
-        "created": "2026-08-07"
+        "name": "daronthedragon/solana-rent-reclaim",
+        "description": "Find the SOL locked in your empty Solana token accounts and get it back. Emits an unsigned transaction you sign yourself - never asks for your private key.",
+        "stars": 2,
+        "created": "2026-08-19"
       },
       {
-        "name": "nirholas/x402-markets",
-        "description": "Crypto prices via CoinGecko and SEC filings via EDGAR \u2014 real market data per lookup, paid with x402: USDC on Base or Solana.",
-        "stars": 3,
-        "created": "2026-08-07"
+        "name": "Yauheni-Ivashkevich/solana-live-course-2026",
+        "description": "",
+        "stars": 2,
+        "created": "2026-08-09"
       },
       {
-        "name": "nirholas/x402-carbon",
-        "description": "Grid carbon intensity now and best-window scheduling \u2014 keyless live data for green agents, paid with x402: USDC on Base or Solana.",
-        "stars": 3,
-        "created": "2026-08-07"
+        "name": "lilcoins89/solana-ai-trading-terminal",
+        "description": "AI-powered Solana Trading Terminal with multi-agent analysis inspired by TradingAgents. Wallet connection, DexScreener discovery, structured AI decisions (Buy/W",
+        "stars": 2,
+        "created": "2026-08-20"
       },
       {
-        "name": "nirholas/x402-news-wire",
-        "description": "Global news query service over GDELT \u2014 article sets, coverage timelines, and delta pulses, paid per query with x402: USDC on Base or Solana.",
-        "stars": 3,
-        "created": "2026-08-07"
+        "name": "michvane/ath-again",
+        "description": "See what your crypto portfolio could be worth if every asset returned to its all-time high.",
+        "stars": 2,
+        "created": "2026-08-11"
       },
       {
-        "name": "nirholas/x402-github-bounty",
-        "description": "Fund GitHub issues with x402 \u2014 signed bounty certificates, merged-PR verification reports, settlement receipts. Non-custodial; pay in USDC on Base or Solana.",
-        "stars": 3,
-        "created": "2026-08-07"
+        "name": "arxumed372/meteora-qp",
+        "description": "One-click DLMM position opener for Meteora \u2014 tiny Chrome extension, no keys, no signing, no network",
+        "stars": 2,
+        "created": "2026-08-08"
       },
       {
-        "name": "nirholas/x402-research",
-        "description": "Scholarly search over arXiv, Crossref, and Semantic Scholar \u2014 papers, citation graphs, formatted bibliographies. Paid per query with x402: USDC on Base or Solan",
-        "stars": 3,
-        "created": "2026-08-07"
+        "name": "daronthedragon/token2022-fingerprint",
+        "description": "What does this Solana mint actually do to your transfers? Reports Token-2022 extensions - permanent delegates, transfer hooks, fees - and rates them by how they",
+        "stars": 2,
+        "created": "2026-08-18"
       },
       {
-        "name": "nirholas/x402-activities",
-        "description": "Tours and activities search via Amadeus \u2014 agents find bookable experiences by location, paid per query in USDC on Base or Solana via x402",
-        "stars": 3,
-        "created": "2026-08-07"
+        "name": "daronthedragon/wallet-forensics-skill",
+        "description": "Agent skill for forensic wallet analysis across Ethereum, Base, Arbitrum, Optimism, Polygon and Solana. Zero dependencies. Reports PnL, fees, MEV sandwiches, ap",
+        "stars": 2,
+        "created": "2026-08-18"
       },
       {
-        "name": "nirholas/x402-places",
-        "description": "POI concierge over OpenStreetMap Overpass with optional Yelp enrichment \u2014 restaurants, cafes, anything, per query, paid in USDC on Base or Solana via x402",
-        "stars": 3,
-        "created": "2026-08-07"
+        "name": "daronthedragon/wallet-forensics",
+        "description": "Forensic report for any Ethereum or Solana address: realized PnL, fees burned, MEV extracted from you, approval risk, and what your bags are actually worth if y",
+        "stars": 2,
+        "created": "2026-08-18"
       },
       {
-        "name": "nirholas/x402-domains",
-        "description": "Authoritative domain availability and expiry intel via RDAP \u2014 keyless, live, per lookup. Paid per call in USDC on Base or Solana via x402.",
-        "stars": 3,
-        "created": "2026-08-07"
-      },
-      {
-        "name": "nirholas/x402-books",
-        "description": "Agents buy clean, chaptered full-text public-domain books \u2014 OpenLibrary search, Gutenberg delivery, in-response, paid in USDC on Base or Solana via x402",
-        "stars": 3,
-        "created": "2026-08-07"
-      },
-      {
-        "name": "nirholas/x402-rentals",
-        "description": "Time-slot rental server for courts, rooms, and equipment \u2014 reserve and pay per block with x402",
-        "stars": 3,
-        "created": "2026-08-07"
+        "name": "nodalytics/till_infinity",
+        "description": " High-probability directional structures in price, backed by fundamentals.",
+        "stars": 2,
+        "created": "2026-08-12"
       }
     ]
   },
   "nostr": {
     "hourly_counts": {
+      "2026-08-20T23:00Z": 2,
+      "2026-08-20T22:00Z": 3,
+      "2026-08-20T21:00Z": 5,
+      "2026-08-20T20:00Z": 2,
+      "2026-08-20T19:00Z": 5,
+      "2026-08-20T18:00Z": 1,
+      "2026-08-20T17:00Z": 1,
+      "2026-08-20T16:00Z": 1,
+      "2026-08-20T13:00Z": 1,
       "2026-08-20T12:00Z": 1,
       "2026-08-20T05:00Z": 1,
       "2026-08-20T04:00Z": 1,
       "2026-08-20T02:00Z": 1,
       "2026-08-20T01:00Z": 2,
-      "2026-08-19T22:00Z": 1,
-      "2026-08-19T19:00Z": 3,
-      "2026-08-19T16:00Z": 1,
-      "2026-08-19T13:00Z": 1,
-      "_relay_wss://nos.lol": 11,
-      "2026-08-19T20:00Z": 1,
-      "_relay_wss://relay.damus.io": 2
+      "_relay_wss://nos.lol": 27,
+      "_relay_wss://relay.damus.io": 0
     },
-    "total_24h": 13
+    "total_24h": 27
   },
   "narrative_scores": {
-    "defi": 8.575,
-    "restaking_lst": 5.555,
-    "meme_launchpads": 0.7,
-    "payments": 0.506,
-    "ai_agents": 0.461,
+    "defi": 8.627,
+    "restaking_lst": 5.521,
+    "meme_launchpads": 0.548,
+    "ai_agents": 0.396,
     "developer_tooling": 0.32,
-    "dao_governance": 0.168,
+    "payments": 0.204,
+    "dao_governance": 0.165,
     "depin_compute": 0.013,
     "gaming": 0.0,
     "identity_social": 0.0
@@ -754,35 +758,35 @@
   "ranked": [
     [
       "defi",
-      8.574713921417716
+      8.626920443787993
     ],
     [
       "restaking_lst",
-      5.55547555555215
+      5.521199107913526
     ],
     [
       "meme_launchpads",
-      0.7000185338926483
-    ],
-    [
-      "payments",
-      0.5061933899046313
+      0.5481803767934452
     ],
     [
       "ai_agents",
-      0.46067107873650226
+      0.39631801604921446
+    ],
+    [
+      "developer_tooling",
+      0.31990936972778317
     ]
   ],
   "momentum": {
-    "ai_agents": 0.076,
-    "restaking_lst": 4.473,
-    "defi": 5.365,
-    "payments": 0.207,
+    "ai_agents": 0.006,
+    "restaking_lst": 4.119,
+    "defi": 5.034,
+    "payments": -0.111,
     "depin_compute": 0.0,
-    "meme_launchpads": 0.592,
+    "meme_launchpads": 0.398,
     "gaming": 0.0,
-    "developer_tooling": 0.246,
-    "dao_governance": 0.14,
+    "developer_tooling": 0.228,
+    "dao_governance": 0.127,
     "identity_social": 0.0
   }
 }
