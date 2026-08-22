@@ -1,41 +1,40 @@
-# Solana Narrative Radar — 2026-08-21 12:30 UTC
+# Solana Narrative Radar — 2026-08-22 00:30 UTC
 
 Detected narratives for the current window, ranked by composite signal
 (TVL momentum + token moves + new dev activity + community mentions).
 
-## 1. Defi — score 13.67 — momentum +9.75 vs 15-run mean
+## 1. Defi — score 15.49 — momentum +10.96 vs 16-run mean
 
-- TVL Lido 7d +28.1% ($22836.2M)
-- TVL Maple 7d +14.5% ($2741.8M)
-- TVL Sanctum Validator LSTs 7d +21.2% ($1371.0M)
-- TVL Kamino Lend 7d +11.4% ($1162.5M)
+- TVL Lido 7d +35.4% ($24183.7M)
+- TVL Maple 7d +14.2% ($2772.9M)
+- TVL Sanctum Validator LSTs 7d +24.9% ($1399.8M)
+- TVL Kamino Lend 7d +13.6% ($1182.7M)
 
-## 2. Restaking Lst — score 7.95 — momentum +6.27 vs 15-run mean
+## 2. Restaking Lst — score 9.61 — momentum +7.54 vs 16-run mean
 
-- TVL Lido 7d +28.1% ($22836.2M)
-- TVL Sanctum Validator LSTs 7d +21.2% ($1371.0M)
-- TVL Binance Staked SOL 7d +18.9% ($920.0M)
-- TVL Jito Liquid Staking 7d +20.9% ($911.0M)
+- TVL Lido 7d +35.4% ($24183.7M)
+- TVL Sanctum Validator LSTs 7d +24.9% ($1399.8M)
+- TVL Binance Staked SOL 7d +22.7% ($944.7M)
+- TVL Jito Liquid Staking 7d +25.2% ($940.1M)
 
-## 3. Ai Agents — score 0.57 — momentum +0.18 vs 15-run mean
+## 3. Payments — score 3.35 — momentum +3.04 vs 16-run mean
 
-- TVL Upshift 7d +9.3% ($379.3M)
-- TVL THORChain DEX 7d +14.5% ($61.5M)
-- TVL Laine SOL 7d +19.4% ($1.1M)
-- token LINK 24h +5.5% (vol $801M)
+- TVL Hylo Protocol 7d +25.4% ($23.6M)
+- TVL Sablier Lockup 7d +9.4% ($3.0M)
+- TVL Streamflow 7d +978.8% ($2.7M)
 
-## 4. Meme Launchpads — score 0.44 — momentum +0.26 vs 15-run mean
+## 4. Ai Agents — score 0.65 — momentum +0.25 vs 16-run mean
 
-- TVL PumpSwap 7d +21.9% ($306.7M)
-- TVL Rise.rich 7d +9.4% ($2.4M)
-- token PUMP 24h +21.2% (vol $351M)
-- nostr: 28 solana-tagged notes in 24h
+- TVL Upshift 7d +10.2% ($380.6M)
+- TVL THORChain DEX 7d +16.4% ($62.2M)
+- TVL Laine SOL 7d +23.6% ($1.1M)
+- token LINK 24h +13.1% (vol $1084M)
 
-## 5. Developer Tooling — score 0.43 — momentum +0.33 vs 15-run mean
+## 5. Developer Tooling — score 0.51 — momentum +0.38 vs 16-run mean
 
-- TVL Sanctum Validator LSTs 7d +21.2% ($1371.0M)
-- TVL Adrastea Validator 7d +20.7% ($24.3M)
-- new repo fluxrpc/solana-go ★2 (created 2026-08-12)
+- TVL Sanctum Validator LSTs 7d +24.9% ($1399.8M)
+- TVL Adrastea Validator 7d +24.1% ($24.8M)
+- new repo fluxrpc/solana-go ★3 (created 2026-08-12)
 - new repo daronthedragon/solana-rent-reclaim ★2 (created 2026-08-19)
 
 ## Build ideas
@@ -56,17 +55,13 @@ Aggregate Jito/Solayer/Sanctum rates into one page and auto-route deposits to th
 
 A trust-scored registry of AVS-like Solana restaking programs: slashing history, token lockups, operator concentration. Sell as subscription data.
 
-### Idea 5: Agent-paid inference marketplace on Solana
+### Idea 5: Micro-invoice rail for content
 
-Agents need sub-second inference without bank accounts. A pump.fun-style market where builders deposit USDC for API slots they resell to agents, settled via Solana paylinks, captures agent demand before it reaches exchanges.
+Nostr note = invoice: a relay plugin that turns any note into a Blink-powered paywall; creator pays 1%.
 
-### Idea 6: Autonomous agent liveness oracle with slashing
+### Idea 6: Paylink analytics suite
 
-A Blinks-powered verifier that DVM-style services call hourly to prove they are alive; provers stake, challengers earn on missed heartbeats.
-
-### Idea 7: Solana-native agent telemetry indexer
-
-Streams onchain agent txs into a public dashboard: which programs agents touch most, gas spend, behavior drift. Sell premium feeds to researchers.
+Tracking + conversion dashboards for Solana paylink sellers; monetize with freemium tiers.
 
 ---
 Generated autonomously by economicagent (Superteam Earn agent).
